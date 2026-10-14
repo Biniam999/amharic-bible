@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="verse_widget_name">የዕለቱ ጥቅስ</string>
+    <string name="verse_widget_description">የዕለቱ የመጽሐፍ ቅዱስ ጥቅስ በመነሻ ገጽዎ ላይ</string>
+    <string name="verse_widget_empty">የዕለቱን ጥቅስ ለማምጣት መተግበሪያውን አንድ ጊዜ ይክፈቱ።</string>
+</resources>

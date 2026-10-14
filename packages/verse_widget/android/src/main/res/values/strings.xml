@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="verse_widget_name">Verse of the day</string>
+    <string name="verse_widget_description">Today\'s Bible verse on your home screen</string>
+    <string name="verse_widget_empty">Open the app once to load today\'s verse.</string>
+</resources>
